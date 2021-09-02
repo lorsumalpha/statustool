@@ -1,0 +1,51 @@
+/*Importierung von externen Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+*{box-sizing: border-box;font-family: 'Lato', sans-serif;}
+
+.header{
+    display: flex;
+    flex-direction: column;
+}
+
+.smallText{
+    
+}
+
+.content{
+    
+}
+
+.users{
+    
+}
+
+.singleUser{
+    
+}
+
+/*IDs*/
+
+#date{
+    
+}
+
+#dateText{
+    
+}
+
+#version{
+    
+}
+
+#activeUser{
+    
+}
+#artmann{
+    
+}
+
+#testUser{
+    
+}
+
